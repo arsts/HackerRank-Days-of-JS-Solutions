@@ -10,3 +10,4 @@ function main() {
   console.log(area)
   // Print the perimeter of the circle:
   console.log(perimeter)
+}
