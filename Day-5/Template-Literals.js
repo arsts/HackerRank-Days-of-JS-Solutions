@@ -18,7 +18,6 @@ function sides(literals, ...expressions) {
   result.sort()
   return result;
 
-  // console.log(s2)
 
 }
 
